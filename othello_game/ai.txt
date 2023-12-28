@@ -1,0 +1,13 @@
+1. Did you attempt to make your computer player very smart -- i.e., do something more clever than just pick a random legal move?
+    Yes
+
+2. If so, were you able to accomplish this? Is your computer player as smart as you would like?
+    By calculating the number of tiles with oppisite color that move can flip, and find the one move with maximum number.
+3. How did you determine which piece to play next? Tell us about your “pick next move” algorithm
+    Count the number of tiles with oppisite color that move (x, y) can flip first,
+    if it's bigger than previous ones, update the next move to be (x, y).
+    Loop though all the possible legal moves, find the (x, y) with maximum flipping numbers.
+4. How often did your computer program beat you, or your friends, or whoever tested it out for you?
+    About 70 percent.
+5. How would you improve it in the future?
+    To predict more than one move.
