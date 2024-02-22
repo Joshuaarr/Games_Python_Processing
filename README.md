@@ -1,13 +1,16 @@
 # Games written in Python Mode for Processing
 
 ## What to expect?
-https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/42e2da01-b0c1-4ea9-b128-6c87fce1e094
 
-<img width="300" alt="Screenshot 2024-02-21 at 17 37 25" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/d992178a-f0b1-4fba-a41b-549b415d7cc5">
+<img width="400" alt="Screenshot 2024-02-21 at 17 37 25" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/061c3b6c-6a71-4a6a-8116-acea4b2a6628">
 
-<img width="300" alt="Screenshot 2024-02-21 at 17 37 10" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/bf19c7ef-15db-4404-ad38-282286fdbb15">
+<img width="400" alt="Screenshot 2024-02-21 at 17 36 32" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/6165ddf4-01a4-4d4d-9d65-381263b5bd48">
 
-<img width="300" alt="Screenshot 2024-02-21 at 17 36 32" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/6165ddf4-01a4-4d4d-9d65-381263b5bd48">
+<img width="400" alt="Screenshot 2024-02-21 at 17 37 25" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/d992178a-f0b1-4fba-a41b-549b415d7cc5">
+
+<img width="400" alt="Screenshot 2024-02-21 at 17 37 10" src="https://github.com/Joshuaarr/Games_Python_Processing/assets/48045950/bf19c7ef-15db-4404-ad38-282286fdbb15">
+
+
 
 ## How to play?
 **Install Processing**<br>
